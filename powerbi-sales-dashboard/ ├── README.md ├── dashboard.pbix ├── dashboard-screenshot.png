@@ -1,0 +1,46 @@
+# Power BI Sales Dashboard Project
+
+📊 A simple but effective sales dashboard created in Power BI using mock e-commerce data. This was my first hands-on Power BI project to explore data storytelling and dashboarding.
+
+---
+
+## 🚀 Project Objective
+The goal of this project was to:
+- Analyze monthly sales performance
+- Identify best-selling product categories
+- Create interactive visuals with slicers and filters
+
+---
+
+## 🛠️ Tools Used
+- Power BI (for visualizations)
+- Excel (for data cleaning)
+- DAX (for creating calculated measures)
+
+---
+
+## 📈 Key Visuals
+- Bar chart: Sales by month
+- Pie chart: Sales by category
+- Card visuals: Revenue, orders
+- Slicers: Filter by product type, region
+
+---
+
+## 🧠 What I Learned
+- How to build and structure a dashboard from scratch
+- Importance of choosing the right visuals
+- Using DAX for basic measures (Total Revenue, Avg Sales)
+- User experience in designing intuitive dashboards
+
+---
+
+## 📸 Preview
+![Dashboard Screenshot](dashboard-screenshot.png)
+
+---
+
+## 🧑‍💻 Author
+**Shubham Chaubey**  
+[Connect on LinkedIn](https://www.linkedin.com/in/shubhamchaubey-in)
+
